@@ -2,7 +2,7 @@
 
 Alfred Workflow to control VPN connections
 
-<img src="screenshot.png">
+<img src="screenshot.png" width="700">
 
 ## Install
 
